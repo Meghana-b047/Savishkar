@@ -1,0 +1,4 @@
+backend/local_run.sh
+backend/local_setup.sh
+backend/.venv/
+backend/.env
